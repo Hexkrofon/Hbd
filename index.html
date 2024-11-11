@@ -46,8 +46,8 @@
             transition: transform 0.6s; /* Smooth transition for the flip */
         }
 
-        .birthday-card:hover {
-            transform: rotateY(180deg); /* Flips the card on hover */
+        .birthday-card.flipped {
+            transform: rotateY(180deg); /* Flips the card */
         }
 
         .card {
@@ -105,7 +105,6 @@
             padding: 20px;
             box-sizing: border-box;
             text-align: center;
-            background-color: white;
         }
 
         .back h2 {
@@ -121,8 +120,8 @@
 </head>
 <body>
 
-<div class="card-container">
-    <div class="birthday-card">
+<div class="card-container" onclick="toggleFlip()">
+    <div class="birthday-card" id="birthdayCard">
         <div class="card front">
             <img src="Dokja.png" alt="Birthday Celebration">
             <div class="text">
