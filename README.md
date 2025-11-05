@@ -9,4 +9,5 @@ Cuma bisa mengagumi dari jauh...
 
 
 Note (5 November 2025)
+
 Sudah nggak suka lagi ama dia sekarang
