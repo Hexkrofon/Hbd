@@ -8,6 +8,4 @@ Jujur nggak berharap banyak ama dia...
 Cuma bisa mengagumi dari jauh...
 
 
-Note (5 November 2025)
-
-Sudah nggak suka lagi ama dia sekarang
+Note (5 November 2025) : Sudah nggak suka lagi ama dia sekarang
